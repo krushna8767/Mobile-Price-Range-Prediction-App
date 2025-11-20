@@ -10,7 +10,7 @@
 ## 🔗 Live App
 
 🚀 Try the live model here:
-👉 **[https://loanpredictionproject-tejasgholap.streamlit.app/](https://loanpredictionproject-tejasgholap.streamlit.app/)**
+👉 **(https://mobile-price-range-prediction-app-krushna.streamlit.app/)**
 
 
 ---
@@ -94,61 +94,3 @@ Mobile-Price-Prediction/
 ```
 
 ---
-
-## 🏁 Running the App Locally
-
-1️⃣ Clone the repository
-
-```bash
-git clone https://github.com/yourusername/Mobile-Price-Prediction.git
-cd Mobile-Price-Prediction
-```
-
-2️⃣ Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-3️⃣ Run Streamlit
-
-```bash
-streamlit run app.py
-```
-
-4️⃣ Visit in your browser
-
-```
-http://localhost:8501
-```
-
----
-
-## 📦 requirements.txt
-
-```
-streamlit
-numpy
-scikit-learn
-pickle5
-```
----
-```
-```
----
-
-## 👨‍💻 Developer
-
-**Tejas Gholap**
-MCA Student | ML & AI Enthusiast
-
-🔗 GitHub: [https://github.com/tejasgholap45](https://github.com/tejasgholap45)
-🔗 LinkedIn: [https://www.linkedin.com/in/tejas-gholap-bb3417300/](https://www.linkedin.com/in/tejas-gholap-bb3417300/)
-
----
-
-## 🙏 Acknowledgements
-
-* Streamlit for seamless deployment
-* Open-source ML libraries
-* Dataset providers
